@@ -1,0 +1,8 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+chromadb
+langchain-chroma
+langchain-community
+langchain-core
+langchain-openai
+langchain-groq
+python-dotenv
